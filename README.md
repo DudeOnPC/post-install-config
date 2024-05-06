@@ -48,6 +48,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 **Configure Departments**
 1. Admin Panel--> Agents--> Departments
 2. System Administrators
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/18b47809-6f8b-4967-9f0f-dbbe41d47934)
 
 **Configure Teams**
 -Admin Panel--> Agents--> Teams
