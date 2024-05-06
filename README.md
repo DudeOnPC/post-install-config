@@ -39,16 +39,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 **Configure Roles**
-1. Admin Panel -> Agents -> Roles
+1. Admin Panel--> Agents--> Roles
 2. Supreme Admin
+   
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/64d79afc-5a6f-4934-aa2b-0ab8f3b67663)
 
 
 **Configure Departments**
-1. Admin Panel -> Agents -> Departments
+1. Admin Panel--> Agents--> Departments
 2. System Administrators
 
 **Configure Teams**
--Admin Panel -> Agents -> Teams
+-Admin Panel--> Agents--> Teams
 1.Level I Support
 2.Level II Support
 
