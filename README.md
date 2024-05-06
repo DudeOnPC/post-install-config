@@ -18,47 +18,65 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+
+- Configure Departments
+
+- Configure Teams
+
+- Allow anyone to create tickets
+
+- Configure Agents (workers)
+
+- Configure Users (customers)
+
+- Configure SLA
+
+- Configure Help Topics
+
 
 <h2>Configuration Steps</h2>
-Configure Roles
+
+
+**Configure Roles**
 1. Admin Panel -> Agents -> Roles
 2. Supreme Admin
 
-Configure Departments
+
+**Configure Departments**
 1. Admin Panel -> Agents -> Departments
 2. System Administrators
 
-Configure Teams
+**Configure Teams**
 -Admin Panel -> Agents -> Teams
 1.Level I Support
 2.Level II Support
 
-Allow anyone to create tickets
-1. Admin Panel -> Settings -> User Settings
+
+**Allow anyone to create tickets**
+1. Admin Panel--> Settings--> User Settings
 2. Registration Required: Require registration and login to create tickets 
 Configure Agents (workers)
--Admin Panel -> Agents -> Add New
+-Admin Panel--> Agents--> Add New
 1. Jane
 2. John
 
-Configure Users (customers)
--Agent Panel -> Users -> Add New
+
+**Configure Users (customers)**
+-Agent Panel--> Users--> Add New
 1. Karen
 2. Ken
 
-Configure SLA
--Admin Panel -> Manage -> SLA
+
+**Configure SLA**
+-Admin Panel--> Manage--> SLA
 1. Sev-A (1 hour, 24/7)
 2. Sev-B (4 hours, 24/7)
 3. Sev-C (8 hours, business hours)
 
-Configure Help Topics
--Admin Panel -> Manage -> Help Topics
+
+**Configure Help Topics**
+-Admin Panel--> Manage--> Help Topics
 1. Business Critical Outage
 2. Personal Computer Issues
 3. Equipment Request
