@@ -41,45 +41,56 @@ This tutorial outlines the post-install configuration of the open-source help de
 **Configure Roles**
 1. Admin Panel--> Agents--> Roles
 2. Supreme Admin
-   
+
 ![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/64d79afc-5a6f-4934-aa2b-0ab8f3b67663)
 
 
 **Configure Departments**
 1. Admin Panel--> Agents--> Departments
 2. System Administrators
-![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/18b47809-6f8b-4967-9f0f-dbbe41d47934)
+
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/bf7da5f0-ed9d-44be-82ab-695e58d8d54b)
+
 
 **Configure Teams**
--Admin Panel--> Agents--> Teams
-1.Level I Support
-2.Level II Support
+- Admin Panel--> Agents--> Teams
+  
+1. Level I Support
+2. Level II Support
+
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/063855e7-0097-4a89-a68e-c1d58bf9e751)
 
 
 **Allow anyone to create tickets**
 1. Admin Panel--> Settings--> User Settings
-2. Registration Required: Require registration and login to create tickets 
-Configure Agents (workers)
--Admin Panel--> Agents--> Add New
+2. Registration Required: Require registration and login to create tickets
+
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/5d21dbed-1d88-43d1-92ae-6c61e6387293)
+
+   
+**Configure Agents (workers)**
+- Admin Panel--> Agents--> Add New
 1. Jane
 2. John
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/9155dcf7-0f4b-4673-a59c-9f87e365c51d)
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/88ff7bab-86ec-4f2f-b6df-95e628a83d2f)
 
 
 **Configure Users (customers)**
--Agent Panel--> Users--> Add New
+- Agent Panel--> Users--> Add New
 1. Karen
 2. Ken
 
 
 **Configure SLA**
--Admin Panel--> Manage--> SLA
+- Admin Panel--> Manage--> SLA
 1. Sev-A (1 hour, 24/7)
 2. Sev-B (4 hours, 24/7)
 3. Sev-C (8 hours, business hours)
 
 
 **Configure Help Topics**
--Admin Panel--> Manage--> Help Topics
+- Admin Panel--> Manage--> Help Topics
 1. Business Critical Outage
 2. Personal Computer Issues
 3. Equipment Request
