@@ -25,27 +25,41 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Item 5
 
 <h2>Configuration Steps</h2>
+Configure Roles
+1. Admin Panel -> Agents -> Roles
+2. Supreme Admin
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Configure Departments
+1. Admin Panel -> Agents -> Departments
+2. System Administrators
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Configure Teams
+-Admin Panel -> Agents -> Teams
+1.Level I Support
+2.Level II Support
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Allow anyone to create tickets
+1. Admin Panel -> Settings -> User Settings
+2. Registration Required: Require registration and login to create tickets 
+Configure Agents (workers)
+-Admin Panel -> Agents -> Add New
+1. Jane
+2. John
+
+Configure Users (customers)
+-Agent Panel -> Users -> Add New
+1. Karen
+2. Ken
+
+Configure SLA
+-Admin Panel -> Manage -> SLA
+1. Sev-A (1 hour, 24/7)
+2. Sev-B (4 hours, 24/7)
+3. Sev-C (8 hours, business hours)
+
+Configure Help Topics
+-Admin Panel -> Manage -> Help Topics
+1. Business Critical Outage
+2. Personal Computer Issues
+3. Equipment Request
+4. Password Reset
