@@ -91,6 +91,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 3. Sev-C (8 hours, business hours)
 ![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/4f351dde-d87e-4c6b-8314-b1335b2e014c)
 ![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/dca292f8-c3a3-41fb-80d1-e840f51a0533)
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/ecccc498-8b9e-41c4-9d3b-d85b9c068b55)
 
 
 **Configure Help Topics**
@@ -99,3 +100,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 2. Personal Computer Issues
 3. Equipment Request
 4. Password Reset
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/4ba56d00-2de1-4fc5-8ca4-229e5aa9fab1)
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/a19cd673-2045-4c70-a700-b2999c9a791a)
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/5300bcb1-a399-4020-a3c6-4c0ad22727d5)
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/374233d7-16f9-45ab-b94a-1d2b1021a2a6)
