@@ -80,6 +80,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Agent Panel--> Users--> Add New
 1. Karen
 2. Ken
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/7a19329d-5391-4a91-9a00-66587a70e6d7)
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/25677b01-db6e-4fc8-a71a-03e599b0504a)
 
 
 **Configure SLA**
@@ -87,6 +89,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 1. Sev-A (1 hour, 24/7)
 2. Sev-B (4 hours, 24/7)
 3. Sev-C (8 hours, business hours)
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/4f351dde-d87e-4c6b-8314-b1335b2e014c)
+![image](https://github.com/DudeOnPC/post-install-config/assets/167653474/dca292f8-c3a3-41fb-80d1-e840f51a0533)
 
 
 **Configure Help Topics**
